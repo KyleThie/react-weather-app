@@ -12,6 +12,8 @@
 /build
 
 # misc
+# added .env to this file
+.env
 .DS_Store
 .env.local
 .env.development.local
